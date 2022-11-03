@@ -71,6 +71,9 @@
     "typescript": "^2.8.1",
     "uglify-js": "^2.8.14"
   },
+  "resolutions": {
+    "minimatch": "^3.1.2"
+  },
   "dependencies": {
     "punycode": "^2.1.0"
   }
